@@ -1,2 +1,6 @@
-# PowerBI-Project-Instagram-Analytics-Dashboard
-An interactive Power BI dashboard for Instagram analytics, providing insights into engagement, reach, traffic sources, and content strategy using dynamic visuals and navigation.
+# Instagram-Analysis-Using-PowerBI-Project-Dashboard
+Using Excel based datasheet
+Excel format CSV
+And 1000 dataset
+PowerBI Dashboard and Analysis.
+
